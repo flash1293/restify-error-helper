@@ -1,0 +1,15 @@
+{
+    "name": "restify-error-helper",
+    "version": "0.0.1",
+    "description": "Collection of helper-methods for error-handling with restify and promises",
+    "keywords": ["restify", "error-handling"],
+    "repository": "https://github.com/flash1293/restify-error-helper.git",
+    "author": "Johannes Reuter <email@johannes-reuter.de>",
+    "dependencies": {
+        "restify": "4.0.0"
+    },
+    "main": "index.js",
+    "engines": {
+        "node": ">= 0.4.1"
+    }
+}
