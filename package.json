@@ -1,6 +1,6 @@
 {
     "name": "restify-error-helper",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Collection of helper-methods for error-handling with restify and promises",
     "keywords": ["restify", "error-handling"],
     "repository": "https://github.com/flash1293/restify-error-helper.git",
